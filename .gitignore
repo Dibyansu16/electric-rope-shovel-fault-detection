@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Database
+digital_twin.db
+*.db
+
+# Logs
+simulation_log.csv
+*.log
+
+# Reports
+maintenance_report.txt
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Operating System
+.DS_Store
